@@ -1,0 +1,20 @@
+header{
+    background-color: #525558;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+}
+a{
+    text-decoration: none;
+    font-family: verdana;
+    font-size: xx-large;
+}
+.nuevo{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+}
+
